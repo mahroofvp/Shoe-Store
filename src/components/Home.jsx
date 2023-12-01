@@ -35,7 +35,7 @@ const Home = () => {
           </div>
           <div className=' '>
             <img src={img} alt="home-img/img" 
-            className='w-auto h-[45vh] lg:h-[35vh]  md:h-[31vh] sm:h-[21vh] xsm:h-[19vh] transitions-theme -rotate-[25deg] hover:rotate-0 cursor-pointer object-fill '/>
+            className='w-auto  h-[45vh] lg:h-[35vh]  md:h-[31vh]  sm:h-[21vh] xsm:h-[19vh] transitions-theme -rotate-[25deg] hover:rotate-0 cursor-pointer object-fill '/>
           </div>
         </div>
     </div>

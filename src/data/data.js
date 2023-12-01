@@ -108,7 +108,7 @@ const sneaker = {
   img: sneakershoe,
 };
 
-const toprateslaes = {
+const topratedsales = {
   title: "Top Rated Sales",
   items: [
     {
@@ -375,4 +375,4 @@ const footerAPI = {
 };
 
 
-export { homeapi, footerAPI, story, sneaker, highlight, toprateslaes, popularsales };
+export { homeapi, footerAPI, story, sneaker, highlight, topratedsales, popularsales };
