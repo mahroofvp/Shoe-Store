@@ -34,7 +34,7 @@ const Item = ({ ifExists, id, color, shadow, title, text, img, btn, rating, pric
                 <button type='button' className='bg-white/90 blur-effect-theme 
                 button-theme p-0.5 shadow shadow-sky-200 '><ShoppingBagIcon className='icon-style text-slate-900'/></button>
                 <button type='button' className=' bg-white/90 blur-effect-theme button-theme px-2 py-1  shadow shadow-sky-200 text-sm text-black'>{btn}</button>
-            </div>+
+            </div>
 
         </div>
 
