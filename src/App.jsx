@@ -1,9 +1,11 @@
 import React from 'react'
-import {FlexContent, Home, Sales, Stories} from './components/index'
-import { popularsales, topratedsales, highlight, sneaker, story } from './data/data.js'
+import {Cart, FlexContent, Footer, Home, Navbar, Sales, Stories} from './components/index'
+import {footerAPI, highlight, popularsales, sneaker, story, topratedsales } from './data/data.js'
 const App = () => {
   return (
    <>
+   <Navbar/>
+   <Cart />
     <main className='flex flex-col gap-24 relative'>
       <Home/>
       <Sales prop={ popularsales } ifExists />
@@ -12,6 +14,7 @@ const App = () => {
       <FlexContent prop={ sneaker } />
       <Stories story={story} />
     </main>
+      <Footer footerAPI={footerAPI} />
    </>
   )
 }
