@@ -4,10 +4,6 @@
 Shoe Store Project
 Welcome to the Shoe Store project, a web application dedicated to selling Nike shoes. This project is built using React for the frontend, Redux for state management, and Tailwind CSS for styling. It provides users with a seamless experience to browse, add items to the cart, and explore popular, top-rated, featured, and top stories sections.
 
-
-Shoe Store Project
-Welcome to the Shoe Store project, a web application dedicated to selling Nike shoes. This project is built using React for the frontend, Redux for state management, and Tailwind CSS for styling. It provides users with a seamless experience to browse, add items to the cart, and explore popular, top-rated, featured, and top stories sections.
-
 Features
 1. Browse and Purchase Nike Shoes
 Explore a wide range of Nike shoes available in the store.
